@@ -43,8 +43,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Sleep Timer
-    description                           : • Listen to your favorite music radio as you fall asleep\n
-• App will automatically shut off based on the time you set so you don’t have to worry about exhausting your mobile data or battery
+    description                           : • Listen to your favorite music radio as you fall asleep\n• App will automatically shut off based on the time you set so you don’t have to worry about exhausting your mobile data or battery
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Add to favorite
