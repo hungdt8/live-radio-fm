@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Listen to Live Broadcasts
-    description                           : • Tune in to a variety of different stations including news, sports, music, talk shows, comedy, live concerts, and other programs available through internet broadcast\n• Local stations can be easily found by selecting your location on a map
+    description                           : • Tune in to a variety of different stations including news, sports, music, talk shows, comedy, live concerts, and other programs available through internet broadcast<br>• Local stations can be easily found by selecting your location on a map
     fontawesome_icon_name                 : magic
     
   - title                                 : Search by Station Name
@@ -43,11 +43,11 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Sleep Timer
-    description                           : • Listen to your favorite music radio as you fall asleep\n• App will automatically shut off based on the time you set so you don’t have to worry about exhausting your mobile data or battery
+    description                           : • Listen to your favorite music radio as you fall asleep<br>• App will automatically shut off based on the time you set so you don’t have to worry about exhausting your mobile data or battery
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Add to favorite
-    description                           : • Add any stations you love to the favorites list.\n• Play your favorite radio faster from your favorite list.
+    description                           : • Add any stations you love to the favorites list.<br>• Play your favorite radio faster from your favorite list.
     fontawesome_icon_name                 : sync
 
 #  - title                                 : Easy to Tweak
